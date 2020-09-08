@@ -15,6 +15,7 @@ author: "Một đời An Nhiên"
 
 navbar-links:
   Home: "https://motdoiannhien.github.io/"
+  English: ""
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -24,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://cafebiz.cafebizcdn.vn/thumb_w/600/162123310254002176/2020/7/1/photo1593611320323-1593611320507611340962.jpg"
+avatar: "/assets/img/annhien.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: false
