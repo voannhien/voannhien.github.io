@@ -6,25 +6,25 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Một đời An Nhiên
 
 # Your name to show in the footer
-author: Some Person
+author: Daddy
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "https://voannhien.github.io/"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://tiengtrunganhduong.com/images/201902/an-nhien-trong-cuoc-song/an-nhien-trong-cuoc-song.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,8 +39,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
+  email: "greycat1311@gmail.com"
+  facebook: mnvuonyeuthuong/
   github: daattali
   twitter: daattali
 #  reddit: yourname
