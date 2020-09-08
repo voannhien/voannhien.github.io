@@ -15,7 +15,9 @@ author: "Một đời An Nhiên"
 
 navbar-links:
   Home: "https://motdoiannhien.github.io/"
-  English: "tags/#English"
+  Tiếng Anh: "tags/#English"
+  Kỷ luật tích cực: "tags/#Self-discipline"
+  Montessori: "tags/#Montessori"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
