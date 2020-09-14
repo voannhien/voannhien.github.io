@@ -15,11 +15,13 @@ author: "Một đời An Nhiên"
 
 navbar-links:
   Home: "https://motdoiannhien.github.io/"
+  List bài viết: "list"
   Facebook: "https://www.facebook.com/NhienAndoimot/"
-  Chuẩn bị: "tags/#Preparation"
-  Tiếng Anh: "list/Tieng Anh"
-  Kỷ luật: "tags/#Discipline"
-  Linh tinh: "tags/#Linh tinh"
+  Youtube: "https://www.youtube.com/channel/UCf6q6PlHZzrmBFVWKNb1BUw"
+  
+  # Tiếng Anh: "list/Tieng Anh"
+  # Kỷ luật: "tags/#Discipline"
+  # Linh tinh: "tags/#Linh tinh"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

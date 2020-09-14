@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Tiếng Anh
-subtitle: Các chủ đề liên quan tới tiếng Anh
+title: List bài viết
+subtitle: 
 ---
 
-Dưới đây là danh sách các bài viết về tiếng Anh.
+Dưới đây là danh sách các bài viết dài theo các chủ đề.
 <br>Mình hi vọng nó giúp ích được phần nào đó cho các phụ huynh.
 <br>Cảm ơn các anh chị phụ huynh đã ghé qua.
 
