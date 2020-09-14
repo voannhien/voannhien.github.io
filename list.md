@@ -13,3 +13,6 @@ Dưới đây là danh sách các bài viết dài theo các chủ đề.
 * [Phần 02](https://motdoiannhien.github.io/2020-09-09-day-tre-tieng-anh-nhu-the-nao-phan-2/)
 * [Phần 03](https://motdoiannhien.github.io/2020-09-10-day-tre-tieng-anh-nhu-the-nao-phan-3/)
 * [Phần 04](https://motdoiannhien.github.io/2020-09-11-day-tre-tieng-anh-nhu-the-nao-phan-4/)
+
+### Review sách: "Sự sụp đổ của nghề làm cha me"
+* [Phần 01](https://motdoiannhien.github.io/2020-09-15-su-sup-do-cua-nghe-lam-cha-me-phan-01/): review tổng quan.
