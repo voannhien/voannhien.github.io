@@ -16,3 +16,4 @@ Dưới đây là danh sách các bài viết dài theo các chủ đề.
 
 ### Review sách: "Sự sụp đổ của nghề làm cha me"
 * [Phần 01](https://motdoiannhien.github.io/2020-09-15-su-sup-do-cua-nghe-lam-cha-me-phan-01/): review tổng quan.
+* [Phần 02](https://motdoiannhien.github.io/2020-09-16-su-sup-do-cua-nghe-lam-cha-me-phan-02/): (chưa viết)
