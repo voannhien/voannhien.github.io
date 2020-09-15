@@ -6,6 +6,10 @@ body {
   background-color: powderblue;
 }
 
+p {
+  text-align: justify;
+}
+
 .row {
   display: flex;
 }
