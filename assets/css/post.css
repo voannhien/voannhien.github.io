@@ -10,6 +10,10 @@ p {
   text-align: justify;
 }
 
+marker {
+  color: yellow;
+}
+
 .row {
   display: flex;
 }
